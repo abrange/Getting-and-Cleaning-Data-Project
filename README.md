@@ -27,17 +27,17 @@ the source of each variable in the following link:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
 Variables contained in this data set all the following and are indicated bellow.:
-"SubjectId": This variable correspond to the individual
-"ActivityName": This variable corresponde to the Activity Name
-"tBodyAcc-mean()-X": This columns hold the mean of this column for each SubjectId and Activity Name
-"tBodyAcc-mean()-Y": This columns hold the mean of this column for each SubjectId and Activity Name
-"tBodyAcc-mean()-Z": This columns hold the mean of this column for each SubjectId and Activity Name
-"tBodyAcc-std()-X": This columns hold the mean of this column for each SubjectId and Activity Name
-"tBodyAcc-std()-Y": This columns hold the mean of this column for each SubjectId and Activity Name
-"tBodyAcc-std()-Z": This columns hold the mean of this column for each SubjectId and Activity Name
-"tGravityAcc-mean()-X": This columns hold the mean of this column for each SubjectId and Activity Name
-"tGravityAcc-mean()-Y": This columns hold the mean of this column for each SubjectId and Activity Name
-"tGravityAcc-mean()-Z": This columns hold the mean of this column for each SubjectId and Activity Name
+* "SubjectId": This variable correspond to the individual
+* "ActivityName": This variable corresponde to the Activity Name
+* "tBodyAcc-mean()-X": This columns hold the mean of this column for each SubjectId and Activity Name
+* "tBodyAcc-mean()-Y": This columns hold the mean of this column for each SubjectId and Activity Name
+* "tBodyAcc-mean()-Z": This columns hold the mean of this column for each SubjectId and Activity Name
+* "tBodyAcc-std()-X": This columns hold the mean of this column for each SubjectId and Activity Name
+* "tBodyAcc-std()-Y": This columns hold the mean of this column for each SubjectId and Activity Name
+* "tBodyAcc-std()-Z": This columns hold the mean of this column for each SubjectId and Activity Name
+* "tGravityAcc-mean()-X": This columns hold the mean of this column for each SubjectId and Activity Name
+* "tGravityAcc-mean()-Y": This columns hold the mean of this column for each SubjectId and Activity Name
+* "tGravityAcc-mean()-Z": This columns hold the mean of this column for each SubjectId and Activity Name
 "tGravityAcc-std()-X": This columns hold the mean of this column for each SubjectId and Activity Name
 "tGravityAcc-std()-Y": This columns hold the mean of this column for each SubjectId and Activity Name
 "tGravityAcc-std()-Z": This columns hold the mean of this column for each SubjectId and Activity Name
