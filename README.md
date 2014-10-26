@@ -7,14 +7,15 @@ This repository have the file to perform data analysis over Samsumg Data.
 In order to be able to get the tidy data set included here, you should execute the code contained in run_analysis.R.
 In the same folder, you should unzip the content of:
 Steps:
-1 - Download and unzip the content of this zip file: 
-	https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
-2 - Put in the same directory that contains the unziped file, the file run_analysis.R
-3 - Make sure that you have installed dplyr package
-4 - Execute all the content of the file in a R console,  having the working directory as root of unziped file
-5 - After execute all the content, you should endup with file in the same (working directory)
-	named tidy_dataset.txt
-
+<ol>
+<li> -  Download and unzip the content of this zip file: 
+	https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip </li>
+<li> - Put in the same directory that contains the unziped file, the file run_analysis.R</li>
+<li> - Make sure that you have installed dplyr package</li>
+<li> - Execute all the content of the file in a R console,  having the working directory as root of unziped file</li>
+<li> - After execute all the content, you should endup with file in the same (working directory)
+	named tidy_dataset.txt</li>
+</ol>
 As reference, I have include also the resulting file into GitHab directory, because I am not sure
 the the file was acctually uploeaded correctye, due I only see a blue link with name of the file, instead of file content
 
