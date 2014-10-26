@@ -19,10 +19,8 @@ As reference, I have include also the resulting file into GitHab directory, beca
 the the file was acctually uploeaded correctye, due I only see a blue link with name of the file, instead of file content
 
 I have included a separate file named DataBook. but also I have include here the content
-Data book:
-Databook o fGetting-and-Cleaning-Data-Project
-=================================
 Databook:
+=================================
 
 The variables indicated bellow corresponde to values from the data set of Samsumg. You could find
 the source of each variable in the following link:
